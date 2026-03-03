@@ -52,3 +52,18 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app/dashboard.py
+
+# Author
+
+**Olivia Kewang**  
+Software Development Student – Olivia Kewang
+
+- GitHub: https://github.com/Olivia2423 
+- LinkedIn: https://www.linkedin.com/in/olivia-christy/
+
+---
+
+## License
+
+© 2025 Olivia Kewang. All rights reserved.
+
